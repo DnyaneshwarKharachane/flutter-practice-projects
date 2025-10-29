@@ -1,0 +1,13 @@
+# Flutter & Dart ignores
+.dart_tool/
+.build/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+.vscode/
+android/.gradle/
+**/build/
+*.iml
+pubspec.lock
+google-services.json
